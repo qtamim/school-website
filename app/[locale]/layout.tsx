@@ -10,6 +10,7 @@ import { SiteChrome } from "@/components/layout/site-chrome";
 import { SiteFooter } from "@/components/layout/site-footer";
 import "@/app/globals.css";
 import NextTopLoader from "nextjs-toploader";
+import { Analytics } from "@vercel/analytics/next"
 
 const rubik = Rubik({
   variable: "--font-rubik",
@@ -55,6 +56,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={dir} className={`${rubik.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col overflow-x-hidden scrollbar-none bg-white">
+        <Analytics />
         <NextTopLoader
           color="#07A869"
           initialPosition={0.08}
