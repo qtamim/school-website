@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="82" height="160" viewBox="0 0 82 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="effect" clip-path="url(#clip0_0_99)">
+<path id="Rectangle 33" d="M31 43C31 49.6274 36.3726 55 43 55H70C76.6274 55 82 49.6274 82 43V12.2839C82 5.65651 76.6274 0.28392 70 0.28392H43C36.3726 0.28392 31 5.6565 31 12.2839V43Z" fill="#7A80FF"/>
+<path id="Rectangle 34" d="M0 154C0 157.314 2.68629 160 6 160H25C28.3137 160 31 157.314 31 154V133C31 129.686 28.3137 127 25 127H6C2.68629 127 0 129.686 0 133V154Z" fill="#512A9D"/>
+</g>
+<defs>
+<clipPath id="clip0_0_99">
+<rect width="82" height="160" fill="white"/>
+</clipPath>
+</defs>
+</svg>

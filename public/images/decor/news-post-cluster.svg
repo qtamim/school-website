@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="269" height="235" viewBox="0 0 269 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="effect" clip-path="url(#clip0_0_115)">
+<rect id="Rectangle 24" width="58" height="58" rx="12" fill="#4CA3C4"/>
+<rect id="Rectangle 30" x="211" y="109" width="58" height="58" rx="12" fill="#4CA3C4"/>
+<rect id="Rectangle 31" x="135" y="177" width="58" height="58" rx="12" fill="#4CA3C4"/>
+<path id="Rectangle 25" d="M58 70C58 63.3726 63.3726 58 70 58H109V109H70C63.3726 109 58 103.627 58 97V70Z" fill="#4CA3C4"/>
+<rect id="Rectangle 27" x="109" y="58" width="51" height="51" fill="#4CA3C4"/>
+<path id="Rectangle 28" d="M160 58H199C205.627 58 211 63.3726 211 70V109H160V58Z" fill="#4CA3C4"/>
+<rect id="Rectangle 26" width="10.8587" height="18.8614" transform="matrix(-0.678347 0.734741 -0.733316 -0.679888 67.092 61.5869)" fill="#4CA3C4"/>
+<path id="Rectangle 29" d="M221.197 111.824L213.831 119.802L200 106.978L207.366 99L221.197 111.824Z" fill="#4CA3C4"/>
+</g>
+<defs>
+<clipPath id="clip0_0_115">
+<rect width="269" height="235" fill="white"/>
+</clipPath>
+</defs>
+</svg>

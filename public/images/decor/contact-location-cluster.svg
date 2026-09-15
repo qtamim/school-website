@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="371" height="193" viewBox="0 0 371 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="effect" clip-path="url(#clip0_0_117)">
+<path id="Rectangle 33" d="M83 181C83 187.627 88.3726 193 95 193H122C128.627 193 134 187.627 134 181V150.284C134 143.657 128.627 138.284 122 138.284H95C88.3726 138.284 83 143.657 83 150.284V181Z" fill="#512A9D"/>
+<path id="Rectangle 34" d="M340 27C340 30.3137 342.686 33 346 33H365C368.314 33 371 30.3137 371 27V6C371 2.68629 368.314 0 365 0H346C342.686 0 340 2.68629 340 6V27Z" fill="#7A80FF"/>
+<path id="Rectangle 35" d="M0 102C0 105.314 2.68629 108 6 108H15C18.3137 108 21 105.314 21 102V92C21 88.6863 18.3137 86 15 86H6C2.68629 86 0 88.6863 0 92V102Z" fill="#69CEE3"/>
+<path id="Rectangle 36" d="M19 122C19 125.314 21.6863 128 25 128H34C37.3137 128 40 125.314 40 122V112C40 108.686 37.3137 106 34 106H25C21.6863 106 19 108.686 19 112V122Z" fill="#69CEE3"/>
+<rect id="Rectangle 26" width="6.95551" height="12.0815" transform="matrix(0.678347 -0.734741 0.733316 0.679888 12.4224 104.786)" fill="#69CEE3"/>
+</g>
+<defs>
+<clipPath id="clip0_0_117">
+<rect width="371" height="193" fill="white"/>
+</clipPath>
+</defs>
+</svg>

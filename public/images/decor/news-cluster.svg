@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="199" height="191" viewBox="0 0 199 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="effect">
+<rect id="Rectangle 19" width="11.0047" height="19.1149" transform="matrix(0.734741 0.678347 -0.679888 0.733316 55.3313 75)" fill="#69CEE3"/>
+<path id="Rectangle 20" d="M138 154C138 150.686 140.686 148 144 148H147C150.314 148 153 150.686 153 154V157C153 160.314 150.314 163 147 163H144C140.686 163 138 160.314 138 157V154Z" fill="#07A869"/>
+<path id="Rectangle 1" d="M106 150C106 143.373 100.627 138 94 138H53V191H106V150Z" fill="#69CEE3"/>
+<path id="Rectangle 6" d="M53 97C53 90.3726 47.6274 85 41 85H0V138H53V97Z" fill="#69CEE3"/>
+<path id="Rectangle 5" d="M106 47C106 40.3726 100.627 35 94 35L65 35C58.3726 35 53 40.3726 53 47V88H94C100.627 88 106 82.6274 106 76V47Z" fill="#69CEE3"/>
+<rect id="Rectangle 3" width="53" height="53" transform="matrix(-1 0 0 1 53 138)" fill="#69CEE3"/>
+<rect id="Rectangle 11" x="163" y="86" width="19" height="18" rx="6" transform="rotate(-90 163 86)" fill="#15445A"/>
+<rect id="Rectangle 12" x="180" y="68" width="19" height="19" rx="6" transform="rotate(-90 180 68)" fill="#15445A"/>
+<rect id="Rectangle 13" width="3.78562" height="6.57552" transform="matrix(0.734741 0.678347 -0.679888 0.733316 181.219 63.6101)" fill="#15445A"/>
+</g>
+</svg>
